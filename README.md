@@ -49,6 +49,8 @@ Developed using **Android Studio**
 
 ## 📸 App Screenshots
 
+<p align="center">
+  
 <img src="login.jpeg" width="150"/>
 
 <img src="home.jpeg" width="150"/>
