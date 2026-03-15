@@ -1,42 +1,115 @@
 <h1 align="center">🍲 Recipe App</h1>
 
 <p align="center">
-Android Mini Project developed using Java and XML
+Modern Android Recipe Application
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Platform-Android-green"/>
+<img src="https://img.shields.io/badge/Language-Java-orange"/>
+<img src="https://img.shields.io/badge/IDE-Android%20Studio-blue"/>
+<img src="https://img.shields.io/badge/UI-XML-red"/>
 </p>
 
 ---
 
-## 📱 Project Description
+## 📱 About The Project
 
-Recipe App is an Android application where users can browse recipes, see cooking time, and mark recipes as favorites.
+Recipe App is a modern Android application where users can browse recipes, check cooking time, and add their favorite recipes.
 
-This project demonstrates Android development concepts such as RecyclerView, Fragments, and UI design.
-
----
-
-## 🚀 Features
-
-- Browse Recipes
-- View Recipe Details
-- Add Recipes to Favorites
-- User Profile Screen
-- Simple and Clean UI
+This project was developed as an Android Mini Project to demonstrate Android development concepts including RecyclerView, Fragments, and clean UI design.
 
 ---
 
-## 🛠 Technologies Used
+## ✨ Features
 
-- Java
-- XML
-- RecyclerView
-- Fragments
-- Android Studio
+🍲 Browse different recipes  
+⏱ View cooking time  
+❤️ Add recipes to Favorites  
+📖 View recipe details  
+👤 User profile screen  
+📱 Clean and simple UI  
 
 ---
 
-## 📸 Screenshots
+## 🛠 Tech Stack
+
+| Technology | Use |
+|------------|------|
+| Java | Application Logic |
+| XML | UI Design |
+| RecyclerView | Recipe List |
+| Fragments | Screen Navigation |
+| Android Studio | Development |
+
+Developed using **Android Studio**
+
+---
+
+## 📸 App Screenshots
 
 <p align="center">
+
+<img src="home.png" width="180"/>
+
+<img src="favorite.png" width="180"/>
+
+<img src="profile.png" width="180"/>
+
+</p>
+
+---
+
+## 📂 Project Structure
+<h1 align="center">🍲 Recipe App</h1>
+
+<p align="center">
+Modern Android Recipe Application
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Platform-Android-green"/>
+<img src="https://img.shields.io/badge/Language-Java-orange"/>
+<img src="https://img.shields.io/badge/IDE-Android%20Studio-blue"/>
+<img src="https://img.shields.io/badge/UI-XML-red"/>
+</p>
+
+---
+
+## 📱 About The Project
+
+Recipe App is a modern Android application where users can browse recipes, check cooking time, and add their favorite recipes.
+
+This project was developed as an Android Mini Project to demonstrate Android development concepts including RecyclerView, Fragments, and clean UI design.
+
+---
+
+## ✨ Features
+
+🍲 Browse different recipes  
+⏱ View cooking time  
+❤️ Add recipes to Favorites  
+📖 View recipe details  
+👤 User profile screen  
+📱 Clean and simple UI  
+
+---
+
+## 🛠 Tech Stack
+
+| Technology | Use |
+|------------|------|
+| Java | Application Logic |
+| XML | UI Design |
+| RecyclerView | Recipe List |
+| Fragments | Screen Navigation |
+| Android Studio | Development |
+
+Developed using **Android Studio**
+
+---
+
+## 📸 App Screenshots
 
 <img src="login.jpeg" width="150"/>
 
@@ -53,8 +126,7 @@ This project demonstrates Android development concepts such as RecyclerView, Fra
 
 ---
 
-## 📂 Project Structure
-RecipeApp
+## 📂 Project StructureRecipeApp
 ┣ app
 ┣ java
 ┣ res
@@ -68,17 +140,22 @@ RecipeApp
 
 ## 👨‍💻 Developer
 
-BHADRESH KASHIYANI
-6TH B.TECH INFORMATION TECHNOLOGY
-ANDROID MINI PROJECT STUDENT 
+BHADRESH KASHIYANI(6TH SEM B.TECH IT)
 
 ---
 
-## ⭐ Project Purpose
+## ⭐ Learning Outcomes
 
-This project was created to practice Android development including:
+This project helped in learning:
 
-- RecyclerView
+- Android UI Design
+- RecyclerView Implementation
 - Fragment Navigation
-- UI Design
-- GitHub Project Submission
+- Android App Development Workflow
+- GitHub Project Management
+
+---
+
+<p align="center">
+⭐ If you like this project please give it a star!
+</p>
