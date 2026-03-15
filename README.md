@@ -1,18 +1,10 @@
-# Recipe App
+## Screenshots
 
-Android Mini Project developed using Android Studio.
+### Home Screen
+![Home](home.jpeg)
 
-## Features
-- Recipe List
-- Recipe Details
-- Favorites
-- Profile Page
+### Favorites Screen
+![Favorites](favorite.jpge)
 
-## Technologies
-- Java
-- XML
-- RecyclerView
-- Fragments
-
-## Developer
-Android Mini Project Student
+### Profile Screen
+![Profile](profile.jpge)
