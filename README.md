@@ -68,7 +68,9 @@ RecipeApp
 
 ## 👨‍💻 Developer
 
-Android Mini Project Student
+BHADRESH KASHIYANI
+6TH B.TECH INFORMATION TECHNOLOGY
+ANDROID MINI PROJECT STUDENT 
 
 ---
 
