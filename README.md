@@ -10,7 +10,7 @@
 ![Profile](profile.jpeg)
 
 ### login screen
-![Favorites](login.jpeg)
+![login](login.jpeg)
 
 ### catogories screen
-![Profile](catogeries.jpeg)
+![categories](categories.jpeg)
