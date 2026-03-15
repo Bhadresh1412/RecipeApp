@@ -4,7 +4,13 @@
 ![Home](home.jpeg)
 
 ### Favorites Screen
-![Favorites](favorite.jpge)
+![Favorites](favorite.jpeg)
 
 ### Profile Screen
-![Profile](profile.jpge)
+![Profile](profile.jpeg)
+
+### login screen
+![Favorites](login.jpeg)
+
+### catogories screen
+![Profile](catogeries.jpeg)
