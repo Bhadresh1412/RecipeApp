@@ -50,11 +50,16 @@ Developed using **Android Studio**
 
 <p align="center">
 
-<img src="home.png" width="180"/>
+<img src="login.jpeg" width="150"/>
 
-<img src="favorite.png" width="180"/>
+<img src="home.jpeg" width="150"/>
 
-<img src="profile.png" width="180"/>
+<img src="favorite.jpeg" width="150"/>
+
+<img src="categories.jpeg" width="150"/>
+
+<img src="profile.jpeg" width="150"/>
+
 
 </p>
 
