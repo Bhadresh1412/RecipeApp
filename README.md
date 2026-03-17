@@ -55,12 +55,6 @@ Developed using **Android Studio**
 
 <img src="home.jpeg" width="150"/>
 
-<img src="favorite.jpeg" width="150"/>
-
-<img src="categories.jpeg" width="150"/>
-
-<img src="profile.jpeg" width="150"/>
-
 
 </p>
 
